@@ -1,4 +1,4 @@
-This is a Bitcoin Price Prediction using Machine Learning.
+Bitcoin Price Prediction using Machine Learning.
 So, to begin with, the project I have used Binance to get
 the data set for bitcoin price and used Binance's API Key
 and Secret key to establishing a connection with my
